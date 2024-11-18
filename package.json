@@ -16,7 +16,7 @@
     "expo-av": "8.0.0",
     "react-navigation": "4.0.10",
     "react-native-paper": "3.1.1",
-    "firebase": "7.6.1"
+    "firebase": "10.9.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^7.1.0"
